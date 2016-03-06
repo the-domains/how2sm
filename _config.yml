@@ -1,7 +1,7 @@
 name: HOW2SM
 favicon: null
-layout_spectrum: 0.8771007522009313
-typography_spectrum: 0.18374106823466718
+layout_spectrum: 0.23506
+typography_spectrum: 0.40183
 title: How to social media.
 cta:
   domain: null
@@ -22,8 +22,8 @@ color:
     - '#FFFCE8'
     - '#3E363F'
     - '#DD403A'
-  brandStrength: 0.5625618931371719
-  lightness: 0.7290204742457718
-  saturation: 0.5240627783350646
-  rhythmicContrast: 0.12966367625631392
+  brandStrength: 0.8125
+  lightness: 0.875
+  saturation: 0.1875
+  rhythmicContrast: 0.25
 purpose: []
